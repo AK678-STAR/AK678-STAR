@@ -10,7 +10,7 @@
 ## 🌟 About Me
 - 🎓 **Education:** 3rd-year Software Engineering student at **FPT University Ho Chi Minh Campus** (Expected Apr 2028).
 - 🎯 **Target Career:** **Junior Bridge Software Engineer (BrSE) / Japanese-speaking Software Engineer**.
-- 🇯🇵 **Languages:** **Japanese ~ JLPT N4** (Targeting **JLPT N3** certification in 2027) & **English** (Professional Working Proficiency).
+- 🇯🇵 **Languages:** **Japanese JLPT N4 Level (Equivalent)** (Targeting **JLPT N3** certification in 2027) & **English** (Professional Working Proficiency).
 - 💡 **Core Interests:** Software Requirement Engineering (IEEE 830, StarUML, Figma), Java Web Enterprise Architecture (MVC2, JDBC, SQL Server), and Agile/Scrum Methodologies.
 
 ---
